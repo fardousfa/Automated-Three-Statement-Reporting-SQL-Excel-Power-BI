@@ -1,1 +1,1 @@
-# Automated-Three-Statement-Reporting-SQL-Excel-Power-BI
+# Automated Three Statement Reporting
